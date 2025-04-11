@@ -94,7 +94,13 @@ com.example.emailengine
 ```
 
 ---
+## 📚 Documentation
 
+- [🧱 Architecture](docs/architecture.md)
+- [📧 Email Scenarios](docs/emails-explained.md)
+- [⚙️ Threading & Retry](docs/threading.md)
+
+  
 ## 🌟 License
 MIT — Free to use and modify.
 
